@@ -7,6 +7,8 @@ handling, and custom exception management.
 
 ## 🎯 Project Overview
 
+![ATM GUI Screenshot](screenshot.png)
+
 Object-oriented simulation of real-world banking operations: authentication, 
 balance enquiry, deposits, withdrawals, transfers and transaction history — 
 across four different account types with their own rules and behaviour.
