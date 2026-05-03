@@ -5,7 +5,7 @@ A complete ATM (Automated Teller Machine) simulator built in Java with a
 graphical user interface — featuring multiple account types, transaction 
 handling, and custom exception management.
 
-## 🎯 Project Overview
+##  Project Overview
 
 ![ATM GUI Screenshot](screenshot.png)
 
@@ -13,7 +13,7 @@ Object-oriented simulation of real-world banking operations: authentication,
 balance enquiry, deposits, withdrawals, transfers and transaction history — 
 across four different account types with their own rules and behaviour.
 
-## 🏗️ Architecture
+##  Architecture
 
 The project follows OOP principles with clear separation of concerns:
 
@@ -31,7 +31,7 @@ atm-java-gui/
 └── TestATM.java                    → Unit tests
 ```
 
-## 🔧 Key OOP Concepts Applied
+##  Key OOP Concepts Applied
 
 | Concept | Implementation |
 |---|---|
@@ -42,16 +42,16 @@ atm-java-gui/
 | GUI Programming | Swing-based interface with event-driven user interactions |
 | Testing | `TestATM` validates core banking logic |
 
-## 💡 Features
+##  Features
 
-- 🔐 User authentication and account selection
-- 💰 Deposit, withdraw and balance check operations
-- 📜 Transaction history per account
-- 🛡️ Robust input validation (no negative amounts, no overdraft beyond limits)
-- 🪟 Clean, intuitive GUI built with Java Swing
-- 🧪 Test class to validate core functionality
+-  User authentication and account selection
+-  Deposit, withdraw and balance check operations
+-  Transaction history per account
+-  Robust input validation (no negative amounts, no overdraft beyond limits)
+-  Clean, intuitive GUI built with Java Swing
+-  Test class to validate core functionality
 
-## 🚀 How to Run
+##  How to Run
 
 1. Make sure you have Java JDK installed (version 8+)
 2. Compile all `.java` files:
@@ -67,7 +67,7 @@ atm-java-gui/
    java TestATM
 ```
 
-## 📚 What I Learned
+## What I Learned
 
 - Designing a class hierarchy with abstract classes and inheritance
 - Applying polymorphism to handle different account behaviours uniformly
